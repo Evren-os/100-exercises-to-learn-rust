@@ -1,0 +1,2 @@
+- Various ways to write comments. The common one: line comment (//)
+- `#[cfg(test)] is a attribute, which tells the compiler to only compile the code below it when running tests 
